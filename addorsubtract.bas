@@ -40,4 +40,5 @@ sub subtract
     answer = num1 - num2
     print answer
     sleep
+    main
 end sub
